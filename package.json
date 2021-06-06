@@ -1,0 +1,24 @@
+{
+  "name": "basesdedatos_uf4",
+  "version": "1.0.0",
+  "description": "ChatAmongMeme",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.6.9",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielmoncenti/basesdedatos_uf4.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Danielmoncenti/basesdedatos_uf4/issues"
+  },
+  "homepage": "https://github.com/Danielmoncenti/basesdedatos_uf4#readme"
+}
